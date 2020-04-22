@@ -1,0 +1,8 @@
+export const SET_USER = "SET_USER";
+export const GET_USER = "GET_USER";
+
+export const ADICIONAR_PRODUCTO = "ADICIONAR_PRODUCTO";
+export const DISMINUIR_PRODUCTO = "DISMINUIR_PRODUCTO";
+export const CAMBIAR_MESA = "CAMBIAR_MESA";
+export const CAMBIAR_ID_VENTA = "CAMBIAR_ID_VENTA";
+export const CARGAR_VENTA = "CARGAR_VENTA";
